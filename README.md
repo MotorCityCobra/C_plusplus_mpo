@@ -5,9 +5,9 @@ Mostly translated from the implentation in Python by [acyclics](https://github.c
 
 To install LibTorch git clone the PyTorch repo, find the LibTorch directory and build from source.
 
-Other dependancies are 
-numcpp
-gsl
-mujoco
-fmt
-glfw
+Other dependancies are  
+numcpp  
+gsl  
+mujoco  
+fmt  
+glfw  
