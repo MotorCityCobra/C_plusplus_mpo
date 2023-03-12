@@ -9,9 +9,11 @@ I found any mujoco models with complexity with many DOF, like the humanoid impos
 ## Dependancies
 To install LibTorch git clone the PyTorch repo, find the LibTorch directory and build from source.
 
+MuJoCo
+`pip install mujoco`
+
 Other dependancies are  
 numcpp  
 gsl  
-mujoco  
 fmt  
 glfw  
