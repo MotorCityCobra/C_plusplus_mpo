@@ -16,5 +16,5 @@ gsl
 fmt  
 glfw  
 
-To install these build from source and make sure to run `cmake --install .` after building to install on your system at /usr/local if using Linux.  
+To install these build from source and make sure to run `cmake --install .` after building to install on your system at `/usr/local` if using Linux.  
 I've not tried this in Windows in Visual Studio. I'm sure it's possible.
